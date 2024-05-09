@@ -1,10 +1,10 @@
 # Repositório de Exercícios Resolvidos do Curso: The Complete 2024 Web Development Bootcamp
 
-Repositório de Exercícios Resolvidos do Curso: The Complete 2024 Web Development Bootcamp! Aqui você encontrará os exercícios práticos do curso.
+Bem-vindo ao repositório de Exercícios Resolvidos do Curso: The Complete 2024 Web Development Bootcamp! Aqui você encontrará os exercícios práticos do curso.
 
 ## ℹ️ Sobre o Curso
 
-O curso "The Complete 2024 Web Development Bootcamp" é uma jornada intensiva para aprender habilidades essenciais de desenvolvimento web. Desde HTML e CSS até frameworks avançados como React e Node.js, este curso abrange tudo o que você precisa para se tornar um desenvolvedor web competente em 2024.
+O curso ["The Complete 2024 Web Development Bootcamp"](https://www.udemy.com/course/the-complete-web-development-bootcamp/) é uma jornada intensiva para aprender habilidades essenciais de desenvolvimento web. Desde HTML e CSS até frameworks avançados como React e Node.js, este curso abrange tudo o que você precisa para se tornar um desenvolvedor web competente.
 
 ## 📚 Conteúdo do Repositório
 
